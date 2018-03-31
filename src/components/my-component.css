@@ -1,0 +1,12 @@
+.container {
+  background: #afafaf;
+  padding: 1em;
+  border-radius: 1rem;
+  text-align: center;
+}
+
+p {
+  margin: 0;
+  font-size: 14pt;
+  font-weight: 800;
+}
